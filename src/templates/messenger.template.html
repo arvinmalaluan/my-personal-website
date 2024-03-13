@@ -195,35 +195,6 @@
     </div>
 
     <script src="../../src/utils/onClick.js"></script>
-
-    <script type="application/javascript">
-      function tableSearch() {
-        let input, filter, table, tr, td, txtValue;
-
-        // Initialization of variables
-        input = document.querySelector("#search-user");
-        filter = input.value.toUpperCase();
-        table = document.querySelector("#table-user");
-        tr = table.getElementsByTagName("tr");
-
-        for (let i = 0; i < tr.length; i++) {
-          td = tr[i].getElementsByTagName("td");
-
-          for (let j = 0; j < td.length; j++) {
-            // Access each specific td element in the loop
-            txtValue = td[j].textContent || td[j].innerText;
-
-            if (txtValue.toUpperCase().indexOf(filter) > -1) {
-              tr[i].style.display = "";
-              break; // Break out of the inner loop once a match is found
-            } else {
-              tr[i].style.display = "none";
-            }
-          }
-        }
-      }
-    </script>
-
     <script src="../../src/utils/functions.js"></script>
   </body>
 </html>
