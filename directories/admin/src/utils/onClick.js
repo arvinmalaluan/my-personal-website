@@ -42,4 +42,10 @@ document.body.addEventListener("click", (event) => {
 
     hideSide(act, div, btn);
   }
+
+  if (event.target.id === "sign_in_btn") {
+    event.preventDefault();
+
+    window.location.href = "./src/templates/home.template.html";
+  }
 });
