@@ -1,0 +1,57 @@
+[
+  {
+    "title": "University Navigation Map",
+    "tags": ["tailwind", "java", "firebase", "react", "nosql"],
+    "github": "https://github.com/arvinmalaluan/wa_uns",
+    "actual": "https://www.pesonet.online/"
+  },
+  {
+    "title": "ICONS South Luzon",
+    "tags": ["bootstrap", "jquery", "firebase", "express", "mysql"],
+    "github": "https://github.com/arvinmalaluan/project-icons",
+    "actual": "https://iconssouthluzon.org/"
+  },
+  {
+    "title": "PESO-Lipa.Online",
+    "tags": [
+      "tailwind",
+      "django",
+      "websocket",
+      "postgresql",
+      "webworker",
+      "react"
+    ],
+    "github": "https://github.com/arvinmalaluan/Project-PESO-NET",
+    "actual": "https://www.peso-lipa.online"
+  },
+  {
+    "title": "Estetik Beauty Salon",
+    "tags": ["bootstrap", "html", "css", "javascript", "php", "mysql"],
+    "github": "",
+    "actual": ""
+  },
+  {
+    "title": "REAP (Rice Efficacy Across Philippines)",
+    "tags": ["data analytics", "python"],
+    "github": "",
+    "actual": ""
+  },
+  {
+    "title": "Fast Food Ordering System",
+    "tags": ["python", "sqlite3", "tkinter"],
+    "github": "https://github.com/arvinmalaluan/sa_ordering-system",
+    "actual": ""
+  },
+  {
+    "title": "Karenderya Ordering System",
+    "tags": ["c++"],
+    "github": "",
+    "actual": ""
+  },
+  {
+    "title": "Recipe Book",
+    "tags": ["vba"],
+    "github": "https://github.com/arvinmalaluan/ar_recipe-book",
+    "actual": ""
+  }
+]

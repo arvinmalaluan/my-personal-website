@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Programming",
+    "skills": ["python", "javascript", "typescript", "php", "java"]
+  },
+  {
+    "title": "Backend Development",
+    "skills": [
+      "python",
+      "javascript",
+      "php",
+      "express",
+      "django",
+      "postgresql",
+      "mysql",
+      "nosql"
+    ]
+  },
+  {
+    "title": "Frontend Development",
+    "skills": [
+      "react",
+      "angular",
+      "ionic angular",
+      "material ui",
+      "bootstrap",
+      "tailwind",
+      "html",
+      "css",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Miscellaneous",
+    "skills": [
+      "data analytics",
+      "power bi",
+      "git",
+      "ms tools",
+      "data entry",
+      "prototyping"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "SOFTWARE DEVELOPMENT",
+    "description": "Custom software solutions using Python, JavaScript, PHP, TypeScript, C++, and Java."
+  },
+  {
+    "title": "FRONTEND DEVELOPMENT",
+    "description": "Building APIs, managing databases, and server-side applications with Express, Django, PostgreSQL, and MySQL."
+  },
+  {
+    "title": "BACKEND DEVELOPMENT",
+    "description": "Creating responsive web applications and UI/UX designs using React, Angular, Tailwind, and Bootstrap."
+  },
+  {
+    "title": "DATA ANALYTICS",
+    "description": "Analyzing data to provide insights and developing content-based filtering systems."
+  },
+  {
+    "title": "TECHNICAL CONSULTATING",
+    "description": "Offering expert advice on software projects and technology stacks used on a project."
+  }
+]

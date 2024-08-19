@@ -1,0 +1,54 @@
+[
+  {
+    "title": "RECENT PROJECTS",
+    "data": [
+      {
+        "title": "ICON South Luzon",
+        "link": "#"
+      },
+      {
+        "title": "PESO-Lipa.Online",
+        "link": "#"
+      },
+      {
+        "title": "Estetik Salon",
+        "link": "#"
+      },
+      {
+        "title": "REAP",
+        "link": "#"
+      },
+      {
+        "title": "Inventory Management System",
+        "link": "#"
+      },
+      {
+        "title": "Karenderya Ordering System",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "EXPERIENCE",
+    "data": [
+      "Full-stack Web Developer at Center for Technopreneurship and Innovation"
+    ]
+  },
+  {
+    "title": "CERTIFICATIONS",
+    "data": [
+      "AWS Academy Graduate - AWS Academy Cloud Foundations.",
+      "AWS Academy Graduate - AWS Academy Cloud Architecturing."
+    ]
+  },
+  {
+    "title": "CONTACTS",
+    "data": [
+      { "title": "Github", "link": "" },
+      { "title": "LinkedIn", "link": "" },
+      { "title": "Facebook", "link": "" },
+      { "title": "Instagram", "link": "" },
+      { "title": "Email", "link": "" }
+    ]
+  }
+]
